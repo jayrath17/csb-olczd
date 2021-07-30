@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://jayrath17.github.io/csb-olczd/static/css/main.3ea1a502.chunk.css",
+    "main.js": "https://jayrath17.github.io/csb-olczd/static/js/main.35bff3ff.chunk.js",
+    "main.js.map": "https://jayrath17.github.io/csb-olczd/static/js/main.35bff3ff.chunk.js.map",
+    "runtime-main.js": "https://jayrath17.github.io/csb-olczd/static/js/runtime-main.57550fe2.js",
+    "runtime-main.js.map": "https://jayrath17.github.io/csb-olczd/static/js/runtime-main.57550fe2.js.map",
+    "static/js/2.4c9c3bd5.chunk.js": "https://jayrath17.github.io/csb-olczd/static/js/2.4c9c3bd5.chunk.js",
+    "static/js/2.4c9c3bd5.chunk.js.map": "https://jayrath17.github.io/csb-olczd/static/js/2.4c9c3bd5.chunk.js.map",
+    "index.html": "https://jayrath17.github.io/csb-olczd/index.html",
+    "precache-manifest.6fad64332df5fe13829f754c6a530cf2.js": "https://jayrath17.github.io/csb-olczd/precache-manifest.6fad64332df5fe13829f754c6a530cf2.js",
+    "service-worker.js": "https://jayrath17.github.io/csb-olczd/service-worker.js",
+    "static/css/main.3ea1a502.chunk.css.map": "https://jayrath17.github.io/csb-olczd/static/css/main.3ea1a502.chunk.css.map",
+    "static/js/2.4c9c3bd5.chunk.js.LICENSE.txt": "https://jayrath17.github.io/csb-olczd/static/js/2.4c9c3bd5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57550fe2.js",
+    "static/js/2.4c9c3bd5.chunk.js",
+    "static/css/main.3ea1a502.chunk.css",
+    "static/js/main.35bff3ff.chunk.js"
+  ]
+}
